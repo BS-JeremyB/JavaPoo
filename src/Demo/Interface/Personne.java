@@ -1,4 +1,4 @@
-package Demo.Exo8Demo;
+package Demo.Interface;
 
 public class Personne implements SuperInterface{
 

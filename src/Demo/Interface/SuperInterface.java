@@ -1,4 +1,4 @@
-package Demo.Exo8Demo;
+package Demo.Interface;
 
 public interface SuperInterface {
     void saluer();
