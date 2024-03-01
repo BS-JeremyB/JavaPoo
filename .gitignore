@@ -1,0 +1,43 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/src/Demo/Abstract.zip
+/src/Demo/Generic.zip
+/src/Demo/GenericBis.zip
+/src/Demo/Interface.zip
+/src/Demo/InterfaceFunc.zip
+/src/Demo/Lambda.zip
+/src/Demo/Poo.zip
+/src/Demo/Stream.zip
+/src/Demo/testTab.java
+/src/Demo/TryCatch.zip
+/src/Exo/Exo Recap POO 1_10.zip
+/src/Demo_Packages.zip
+/src/Exo_Packages.zip
+/src/Generic.zip
